@@ -1,0 +1,24 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+
+# MATLAB workspace/data files
+*.mat
+
+# MATLAB compiled files
+*.mex*
+
+# Simulink generated files
+slprj/
+*_rtw/
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary and log files
+*.tmp
+*.log
